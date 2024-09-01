@@ -19,6 +19,12 @@ Welcome to the **Digital Music Store Analysis** project! This project is designe
 
 This project uses a music playlist database. The schema provides the structure of the data, which is essential for understanding the analysis.
 
+## Database Schema
+
+This project uses a music playlist database. Below is the schema of the database:
+
+![Database Schema](MusicDatabaseSchema.png)
+
 ## Analysis Questions
 
 The project involves solving a series of business-related questions, including but not limited to:
