@@ -15,7 +15,7 @@ Welcome to the **Digital Music Store Analysis** project! This project is designe
 - **Build a Portfolio:** Showcase my data analysis skills in my GitHub repository to enhance my job prospects.
 - **Business Analysis:**  how to analyze data and uncover insights that can help in growing a business.
 
-## Database Information
+## Database Information`
 
 This project uses a music playlist database. The schema provides the structure of the data, which is essential for understanding the analysis.
 
